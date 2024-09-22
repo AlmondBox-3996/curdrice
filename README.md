@@ -22,7 +22,7 @@ of the models trained, along with downloadable model weight files in the joblib 
 
 ## Deployment
 
-Find out which ML model suits your needs by installing our package from [pypi](https://pypi.org/project/curdrice/0.1/#files)
+Find out which ML model suits your needs by installing our package from [pypi](https://pypi.org/project/curdrice/0.1/#description)
 
 ```bash
 pip install curdrice

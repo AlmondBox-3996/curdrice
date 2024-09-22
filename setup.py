@@ -13,8 +13,6 @@ setup(
     include_package_data = True,
     install_requires = ['click','numpy','pandas', 'scikit-learn', 'openpyxl', 'scikit-learn-extra', 'mlxtend', 'joblib', 'tabulate'],
     classifiers = [
-            'Development Status :: 5 - Production/Stable',
-            'Intended Audience :: Education, Research',
             'Programming Language :: Python :: 3',
             'Operating System :: OS Independent',
             'License :: OSI Approved :: MIT License'

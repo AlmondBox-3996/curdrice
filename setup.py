@@ -4,7 +4,7 @@ with open("README.md") as r:
     Long_desc = "\n" + r.read()
 
 setup(
-    name = 'curdrice',
+    name = 'curdrice-v2',
     version = '0.1',
     description = 'A ML model training automation tool',
     long_description_content_type = "text/markdown",

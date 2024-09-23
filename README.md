@@ -14,7 +14,7 @@ of the models trained, along with downloadable model weight files in the joblib 
 ## Key Features
 - [x] Compare various machine learning algorithms
 - [x] Performance comparison
-- [x] Model training result comparison through CLI
+- [x] One line CLI command
 - [x] All model files stored as a zip of joblib files
 
 ## Preview

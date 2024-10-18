@@ -52,3 +52,6 @@ curdrice -p <db_path> -d <zip_name> <type> <target>
 
 [@hrishitb](https://www.github.com/Hrishit-B) - [@pranayobla](https://www.github.com/pranay-obla) - 
 [@shriharik](https://www.github.com/RiriSensei) - [@ankitthomas](https://www.github.com/AlmondBox-3996)
+
+## Original Repository (Pre-release)
+https://github.com/Hrishit-B/hack
